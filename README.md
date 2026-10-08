@@ -14,11 +14,14 @@ My first practice repository
 *Hello World Sample - My First Repository*
 
 ## Description
-Information about powerball winnings.
+Information about my computational thinking BAIS class
 
 ## Tools Used
-Used information from professors README page.
+- GitHub  
+- Markdown  
+- Information from professor’s README page  
+- Excel / CSV files (example)
 
 ## Files Used
-- Did you use any datafiles?
-- List filenames
+- camccormick_eow5.py
+- camccormick_labprep6.py
